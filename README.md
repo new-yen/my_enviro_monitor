@@ -7,7 +7,8 @@ Some notes:
 There seem to be some issues with the st7735 library (https://github.com/pimoroni/st7735-python)
 
 The original code was:
-# Create ST7735 LCD display class
+
+#Create ST7735 LCD display class
 st7735 = st7735.ST7735(
     port=0,
     cs=1,
@@ -18,7 +19,7 @@ st7735 = st7735.ST7735(
 )
 
 The new working code for the display:
-# Create ST7735 LCD display class
+#Create ST7735 LCD display class
 st7735 = st7735.ST7735(
     port=0,
     cs=1,
