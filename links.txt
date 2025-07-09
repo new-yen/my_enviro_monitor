@@ -1,2 +1,2 @@
-Pimoroni
+Pimoroni: https://learn.pimoroni.com/article/getting-started-with-enviro-plus#installing-the-enviro-python-library
 github
